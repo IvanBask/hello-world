@@ -1,2 +1,2 @@
 # hello-world
-https://kupiakva.ru/ 
+http://kupiakva.ru/ 
